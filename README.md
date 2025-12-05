@@ -38,8 +38,6 @@ My interests are primarily focused on automation and control, FPGA, RTL design, 
 
 ## 📌 Featured Projects
 
-=## 📌 Featured Projects
-
 ---
 
 ### 🔹 Hack Computer  
