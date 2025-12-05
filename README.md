@@ -98,8 +98,8 @@ My interests are primarily focused on automation and control, FPGA, RTL design, 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancisRohith&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br/>
+<!--![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br/>-->
 
-<!--[![](https://visitcount.itsvg.in/api?id=FrancisRohith&icon=0&color=0)](https://visitcount.itsvg.in)-->
+[![](https://visitcount.itsvg.in/api?id=FrancisRohith&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
